@@ -1,0 +1,62 @@
+.text {
+  background-color: #ded9c4;
+  color: #000000;
+  padding: 11px;
+  font-size: 15px;
+  width: 224px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: #ded9c4;
+  padding: 9px;
+  width: 40px;
+  margin: 10px;
+  color: #000000;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item1 {
+  background-color: #ded9c4;
+  color: #000000;
+  padding: 9px;
+  font-size: 15px;
+  width: 226px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  margin-left: 1px;
+}
+.btn1 {
+  width: 41px;
+  padding: 10px;
+  color: #000000;
+  background-color: #ded9c4;
+  outline: none;
+  border: none;
+  margin: 10px;
+  border-radius: 5px;
+}
+.deleteIcon {
+  color: #b983ff;
+  font-size: 18px;
+}
+
+.removeBtn {
+  background-color: #ded9c4;
+  padding: 8px;
+  outline: none;
+  border: none;
+  margin-top: 10px;
+  border-radius: 5px;
+}
